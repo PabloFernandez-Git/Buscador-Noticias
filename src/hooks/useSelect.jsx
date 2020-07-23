@@ -19,5 +19,5 @@ const useSelect = (stateInicial, opciones) => {
 
     return [state, SelectNoticias];
 }
- 
+
 export default useSelect;
